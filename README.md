@@ -11,7 +11,7 @@
 
 ## 🚀 Live Demo
 
-🔗 (lexai-contract-analyzer-qmb2yfrwus8ryilmewbwtt.streamlit.app)
+🔗 [Open LexAI Contract Analyzer](https://lexai-contract-analyzer-qmb2yfrwus8ryilmewbwtt.streamlit.app)
 
 ---
 
