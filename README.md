@@ -11,7 +11,7 @@
 
 ## 🚀 Live Demo
 
-🔗 [Try LexAI on Streamlit Cloud](#) *(add your link here after deployment)*
+🔗 lexai-contract-analyzer-qmb2yfrwus8ryilmewbwtt.streamlit.app
 
 ---
 
